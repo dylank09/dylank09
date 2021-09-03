@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dylank09
+- 👀 I’m interested in Web development, Mobile development and learning new technologies
+- 🌱 I’m currently studying Computer Science at the University of Limerick
