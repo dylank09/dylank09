@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @dylank09
-- 👀 I’m interested in Web development, Mobile development and learning new technologies
+- 👀 I'm very interested in Web development, Data Mining, Machine Learning and understanding new technologies
 - 🌱 I’m currently studying Computer Science at the University of Limerick
+- 👨‍💼 I am joining Amazon as a Graduate Software Engineer in August of 2022
+- 🏋️ I'm interested in GAA Handball, Rugby and going to the gym
